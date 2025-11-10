@@ -20,7 +20,12 @@
 
 
 ---
-
+### 🤝 Тестовые артефакты:
+- ["Техники тест-дизайна](https://github.com/kris-svii/design/blob/main/README.md)
+- ["Тестовая документация](https://github.com/kris-svii/design/blob/main/README.md)
+- ["Тестирование веб-приложений](https://github.com/kris-svii/WEB)
+- ["Тестирование API](https://github.com/kris-svii/api)
+- ["Работа с базами данных](https://github.com/kris-svii/database)
 <!-- ### 💻 Пройденные курсы:
 
 | Курсы                                                           | Дата              |
